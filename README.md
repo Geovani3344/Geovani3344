@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Front-end developer com experiência em back-end. Estudante de ADS, focado em construir aplicações eficientes e escaláveis, sempre estudando e aprimorando skills.
+Sou desenvolvedor front-end apaixonado por criar interfaces intuitivas e experiências digitais fluidas. Tenho conhecimento em back-end, o que me permite entender aplicações como um todo. Estudante de ADS, estou sempre em busca de novos aprendizados, explorando tecnologias, frameworks e boas práticas. Curioso e dedicado, gosto de enfrentar desafios que me façam crescer como profissional e contribuir com projetos de qualidade.
 
 
 ## 🌐 Redes socias:
