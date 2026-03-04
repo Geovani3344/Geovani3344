@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor back-end especializado na construção de APIs REST e sistemas escaláveis. Minha stack principal inclui Node.js, Express, bancos de dados MongoDB e segurança com bcryptjs (criptografia de senhas) e JWT (autenticação). Atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>
+Desenvolvedor back-end especializado na construção de APIs REST e sistemas escaláveis. Minha stack principal inclui Node.js, Express, bancos de dados MongoDB, segurança com bcryptjs (criptografia de senhas) e JWT (autenticação). Atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>
 
 
 ## 🌐 Socials:
