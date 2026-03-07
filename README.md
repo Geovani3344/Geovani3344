@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor com foco em back-end (Node.js, Express, MongoDB, JWT, bcryptjs), mas também com experiência em front-end para entregar soluções completas. Atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>
+Desenvolvedor com foco em back-end (Node.js, Express, MongoDB, JWT, bcryptjs), mas também tenho um pouco de experiência em front-end para entregar soluções completas. Atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>
 
 
 ## 🌐 Socials:
