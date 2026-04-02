@@ -19,11 +19,8 @@ Sou desenvolvedor com foco em back-end, mas também tenho um pouco de experiênc
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Geovanni-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Geovanni-dev&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanni-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Geovanni-dev&icon=6&color=0)](https://visitcount.itsvg.in)
+![Status do Geovanni](https://github-readme-stats.vercel.app/api?username=Geovanni-dev&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Linguagens do Geovanni](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanni-dev&layout=compact&theme=shadow_blue)
+
