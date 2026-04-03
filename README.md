@@ -1,6 +1,6 @@
 # 👋🏾 Olá, eu sou o Geovani
 
-Sou desenvolvedor com foco em back-end, mas também tenho um pouco de experiência em front-end para entregar soluções completas. Atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>
+Sou desenvolvedor com foco em back-end, mas também tenho boa experiência em front-end para entregar soluções completas. Atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>
 
 
 ## 📱 Socials:
