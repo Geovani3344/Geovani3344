@@ -12,9 +12,12 @@
 
 Desenvolvedor **Back-end** com vivência em *front-end* para entregar soluções completas. Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Foco total em construir APIs robustas, microsserviços e arquiteturas escaláveis.
 
-## 📱 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geovani-rodrigues-dev)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodr.geovani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geovanni3344@gmail.com) 
+### 📱 Socials
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://geovaniportifolio.grdev.app.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geovani-rodrigues-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodr.geovani)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovanni3344@gmail.com)
 
 ---
 
