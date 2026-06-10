@@ -24,3 +24,11 @@ Sou desenvolvedor com foco em back-end, mas também tenho boa experiência em fr
 ![Status do Geovanni](https://github-readme-stats-eight-theta.vercel.app/api?username=Geovanni-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ![Linguagens do Geovanni](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Geovanni-dev&layout=compact&theme=dracula)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Geovanni-dev /Geovanni-dev /pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Geovanni-dev /Geovanni-dev /pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Geovanni-dev /Geovanni-dev /pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
