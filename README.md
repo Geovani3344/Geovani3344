@@ -2,13 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Geovanni-dev.Geovanni-dev" />
-</div>
-
-###
-
-# 👋🏾 Olá, eu sou o Geovani
+#  Olá, eu sou o Geovani
 
 Desenvolvedor **Back-end** com vivência em *front-end* para entregar soluções completas. Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Foco total em construir APIs robustas, microsserviços e arquiteturas escaláveis.
 
