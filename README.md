@@ -4,7 +4,7 @@
 
 #  Olá, eu sou o Geovani
 
-Desenvolvedor **Back-end** com vivência em *front-end* para entregar soluções completas. Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Foco total em construir APIs robustas, microsserviços e arquiteturas escaláveis.
+Desenvolvedor Back-end com vivência em Front-end para soluções full stack. Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Focado no desenvolvimento de APIs robustas, microsserviços e arquiteturas escaláveis. Em busca da minha primeira oportunidade como estagiário ou desenvolvedor Júnior.
 
 ### 📱 Socials
 
