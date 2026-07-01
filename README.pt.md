@@ -3,7 +3,7 @@
 ###
 
 <p align="right">
-  <a href="./README.en.md">🇺🇸 English</a>
+  <a href="./README.md">🇺🇸 English</a>
 </p>
 
 #  Olá, eu sou o Geovani
